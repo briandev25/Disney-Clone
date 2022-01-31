@@ -39,6 +39,7 @@ const Wrap = styled.div`
   img{
       width:100%;
       height:100%;
+      object-fit:cover;
   }
   &:hover{
     box-shadow: rgb(0 0 0 / 80%) 0px 40px 58px -16px,
